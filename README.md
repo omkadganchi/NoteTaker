@@ -26,4 +26,4 @@ Before running the project, ensure that you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/notetaker.git
+   git clone https://github.com/omkadganchi/notetaker.git
