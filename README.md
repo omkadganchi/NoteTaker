@@ -21,9 +21,3 @@ Before running the project, ensure that you have the following installed:
 - **Java** (JDK 8 or later)
 - **Apache Tomcat** (or any Servlet container)
 - **MySQL** (for database storage)
-
-## Setup Instructions
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/omkadganchi/notetaker.git
